@@ -1,5 +1,5 @@
 # Learning-Api-Node
-## O Projeto consiste em um CRUD de usuario com NODE, express e Mongoose
+## O Projeto consiste em um CRUD simples de usuario com NODE, express e Mongoose
 
 Modelo de dados
 id: {
